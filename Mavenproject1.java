@@ -101,31 +101,5 @@ switch (faixa) {
     case 4 -> System.out.println("Você é um idoso.");
     default -> System.out.println("Idade inválida.");
 }
-
-            
-            
-            
-            
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-   }
-     
-     
+ }
     }
