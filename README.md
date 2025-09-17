@@ -20,3 +20,5 @@ caso saque seja maior que o saldo → mostra erro.
 Caso depósito → soma ao saldo.
 Usa switch para decidir a ação.
 <br>
+<img width="572" height="463" alt="image" src="https://github.com/user-attachments/assets/597c8523-00b6-479e-9e44-ab10170710a2" />
+<br>
