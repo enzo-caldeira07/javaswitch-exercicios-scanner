@@ -31,3 +31,6 @@ Usuário digita a idade.
 Programa identifica se é: criança, adolescente, adulto ou idoso.
 Caso número inválido → mostra mensagem de erro
 <br>
+<img width="403" height="491" alt="image" src="https://github.com/user-attachments/assets/0783d217-95f7-4ca0-9c9b-86a061a50a53" />
+<br>
+obrigado pela atençao
