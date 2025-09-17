@@ -22,3 +22,12 @@ Usa switch para decidir a ação.
 <br>
 <img width="572" height="463" alt="image" src="https://github.com/user-attachments/assets/597c8523-00b6-479e-9e44-ab10170710a2" />
 <br>
+<img width="527" height="246" alt="image" src="https://github.com/user-attachments/assets/f4d18476-d669-42dd-a55a-fc9ec451850a" />
+<br>
+
+👶👦🧑👴 Parte 3 – Faixa Etária
+
+Usuário digita a idade.
+Programa identifica se é: criança, adolescente, adulto ou idoso.
+Caso número inválido → mostra mensagem de erro
+<br>
